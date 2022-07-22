@@ -1,1 +1,1 @@
-# newsapp
+# newsapp (External API used) React project
